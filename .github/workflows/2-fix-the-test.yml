@@ -12,7 +12,7 @@ on:
       - ci
     paths:
       - README.md
-      - resume.md
+      - _resume.md_
 
 # Reference: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
